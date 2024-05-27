@@ -125,7 +125,7 @@ form input {
 }
 
 form button {
-    background: #e8491d;
+    background: #3a3a3a;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -134,14 +134,30 @@ form button {
 
 footer {
     background: #333;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     padding: 1rem;
     position: sticky;
     bottom:0;
     right:0;
     width:100%;
+}
 
+footer > a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0 15px;
+    font-size: 1rem;
+}
+
+footer > span {
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+footer > p {
+    color: #ffffff;
+    font-size: 1,2rem;
 }
 
     
