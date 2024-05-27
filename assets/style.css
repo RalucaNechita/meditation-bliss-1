@@ -8,6 +8,7 @@ body {
     line-height: 1.6;
     background-color:lavenderblush;
     color: #3a3a3a;
+    background-image: url('https://images.pexels.com/photos/5184327/pexels-photo-5184327.jpeg?auto=compress&cs=tinysrgb&w=600');
 }
 
 header {
@@ -59,12 +60,13 @@ nav ul li a {
 .banner {
     background: url('banner.jpg') no-repeat center center/cover;
     color: #fff;
-    height: 80vh;
+    height: 100vh;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width:33.33%;
 }
 
 .banner-content {
