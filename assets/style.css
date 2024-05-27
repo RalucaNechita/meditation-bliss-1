@@ -57,8 +57,11 @@ nav ul li a {
     font-size: 2rem;
 }
 
+nav > a:hover {
+    color: gold
+}
+
 .banner {
-    background: url('banner.jpg') no-repeat center center/cover;
     color: #fff;
     height: 100vh;
     text-align: center;
