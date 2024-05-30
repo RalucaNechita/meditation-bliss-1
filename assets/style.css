@@ -1,6 +1,8 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+/* General styles */
+
 body {
     font-family: 'Lato', sans-serif;
     margin: 0;
@@ -10,6 +12,8 @@ body {
     color: #3a3a3a;
     
 }
+
+/* Header */
 
 header {
     background: #3a3a3a;
@@ -29,6 +33,8 @@ header .logo {
     font-size: 1.5em;
     margin: 0;
 }
+
+/* Navigation */
 
 nav ul {
     list-style: none;
@@ -62,6 +68,8 @@ nav > a:hover {
     color: gold
 }
 
+/* Banner*/
+
 .banner {
     color: #fff;
     height: 100vh;
@@ -70,7 +78,7 @@ nav > a:hover {
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background: no-repeat top/ cover url('https://www.pexels.com/photo/silhouette-of-person-raising-its-hand-268134/');
+    background: no-repeat top/ cover url('https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 }
 
 .banner-content {
@@ -92,6 +100,7 @@ nav > a:hover {
     margin-bottom: 20px;
 }
 
+/* Main body */
 
 section {
     padding: 20px;
@@ -117,6 +126,8 @@ section h3 {
     margin-bottom: 10px;
 }
 
+/* Form */
+
 form label {
     display: block;
     margin-bottom: 5px;
@@ -137,6 +148,8 @@ form button {
     border: none;
     border-radius: 5px;
 }
+
+/* Footer */
 
 footer {
     background: #333;
