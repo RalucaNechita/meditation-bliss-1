@@ -88,7 +88,7 @@ No errors were returned when passing through the official Jigsaw validator.
 
 I have confirmed the website accessibility by running through lighthouse in devtools. 
 
-![](image/performancetesting.png)
+![](image/lighthouse.png)
 
 ### Unfixed bugs 
 
