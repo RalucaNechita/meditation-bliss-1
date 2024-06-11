@@ -130,6 +130,10 @@ section h3 {
 
 /* Form */
 
+form {
+    max-width: 500px;
+}
+
 form label {
     display: block;
     margin-bottom: 5px;
