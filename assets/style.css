@@ -80,7 +80,7 @@ nav > a:hover {
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background: no-repeat top/ cover url('https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background: no-repeat top/ cover url(../image/meditation.jpg);
 }
 
 .banner-content {
