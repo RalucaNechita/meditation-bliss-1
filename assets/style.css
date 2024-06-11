@@ -20,13 +20,15 @@ header {
     color: #fff;
     padding: 0 1rem;
     text-align: center;
-    position: sticky;
     display:flex;
     z-index: 100;
     justify-content: space-between;
     align-items: baseline;
     box-shadow: 0 2px 2px black;
     flex-direction: column;
+    position: sticky;
+    top: 0;
+    left: 0;
 }
 
 header .logo {
